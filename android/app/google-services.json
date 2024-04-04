@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "110399055384",
+    "firebase_url": "https://lio-club-default-rtdb.firebaseio.com",
+    "project_id": "lio-club",
+    "storage_bucket": "lio-club.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110399055384:android:85d52c7c20aa85145e456d",
+        "android_client_info": {
+          "package_name": "com.lio_new_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9UPMkCLIOrld4D_e8W6ibrhdvvTnPV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110399055384:android:e673a771fa9204335e456d",
+        "android_client_info": {
+          "package_name": "com.spine.lio_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9UPMkCLIOrld4D_e8W6ibrhdvvTnPV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110399055384:android:da39ba42ffa7dd1b5e456d",
+        "android_client_info": {
+          "package_name": "com.spine.lio_club"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT9UPMkCLIOrld4D_e8W6ibrhdvvTnPV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
